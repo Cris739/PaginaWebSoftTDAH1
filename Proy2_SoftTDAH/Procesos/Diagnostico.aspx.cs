@@ -22,7 +22,7 @@ namespace Proy2_SoftTDAH.Procesos
 
         protected void ImageButton1_Click(object sender, ImageClickEventArgs e)
         {
-            Response.Redirect("http://127.0.0.1:5500/index.html");
+            
         }
 
         protected void ImageButton2_Click(object sender, ImageClickEventArgs e)

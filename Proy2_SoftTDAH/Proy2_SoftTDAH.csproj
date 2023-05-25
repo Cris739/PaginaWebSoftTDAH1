@@ -159,6 +159,7 @@
     <Content Include="Procesos\Default.aspx" />
     <Content Include="Procesos\Diagnostico.aspx" />
     <Content Include="Procesos\ManualdeUsuario.aspx" />
+    <Content Include="Procesos\Notas.aspx" />
     <Content Include="Procesos\PaginaPrincipal.aspx" />
     <Content Include="Procesos\Reconocimiento.aspx" />
     <Content Include="Procesos\RecuperarContraseña.aspx" />
@@ -222,6 +223,13 @@
     </Compile>
     <Compile Include="Procesos\ManualdeUsuario.aspx.designer.cs">
       <DependentUpon>ManualdeUsuario.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Procesos\Notas.aspx.cs">
+      <DependentUpon>Notas.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Procesos\Notas.aspx.designer.cs">
+      <DependentUpon>Notas.aspx</DependentUpon>
     </Compile>
     <Compile Include="Procesos\PaginaPrincipal.aspx.cs">
       <DependentUpon>PaginaPrincipal.aspx</DependentUpon>

@@ -59,10 +59,10 @@
                                         <asp:TextBox ID="txtFechNacim" runat="server" class="form-control form-control-lg" type="date" style="text-align:center"></asp:TextBox>
                                         <label class="form-label">Fecha de Nacimiento</label>
                                     </div>
-                                    <div class="form-outline form-white mb-4">
+                                    <%--<div class="form-outline form-white mb-4">
                                         <asp:TextBox ID="txtPromNotas" runat="server" class="form-control form-control-lg"  style="text-align:center"></asp:TextBox>
                                         <label class="form-label">Promedio de Notas</label>
-                                    </div>
+                                    </div>--%>
                                     
                                     <div class="form-outline form-white mb-4">
                                     <asp:Button ID="btnRegistrar" class="btn btn-outline-light btn-lg px-4" runat="server" Text="Registrar" OnClick="btnRegistrar_Click"  />

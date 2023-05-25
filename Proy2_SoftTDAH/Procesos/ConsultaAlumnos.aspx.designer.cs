@@ -69,6 +69,24 @@ namespace Proy2_SoftTDAH.Procesos
         protected global::System.Web.UI.WebControls.GridView gvconsulta;
 
         /// <summary>
+        /// Control panelPromedio.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Panel panelPromedio;
+
+        /// <summary>
+        /// Control txtPromSalon.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox txtPromSalon;
+
+        /// <summary>
         /// Control btnVolver.
         /// </summary>
         /// <remarks>

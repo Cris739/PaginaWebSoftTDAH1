@@ -27,7 +27,7 @@ namespace Proy2_SoftTDAH.Procesos
             cmd.Parameters.Add("@Alu_ApeMat", SqlDbType.VarChar).Value = txtApellidoMaterno.Text;
             cmd.Parameters.Add("@Alu_Grado", SqlDbType.VarChar).Value = txtGrado.Text;
             cmd.Parameters.Add("@Alu_FechNac", SqlDbType.Date).Value = txtFechNacim.Text;
-            cmd.Parameters.Add("@Promedio_Notas", SqlDbType.VarChar).Value = txtPromNotas.Text;
+            //cmd.Parameters.Add("@Promedio_Notas", SqlDbType.VarChar).Value = txtPromNotas.Text;
             conn.Open();
             cmd.ExecuteNonQuery();
             conn.Close();

@@ -41,6 +41,9 @@
                         <li class="nav-item active">
                             <a class="nav-link " href="#">Diagnostico</a>
                         </li>
+                        <li class="nav-item active">
+                            <a class="nav-link " href="Notas.aspx">Notas</a>
+                        </li>
                         <li>&nbsp;</li>
                         <li>&nbsp;</li>
                         <li>&nbsp;</li>
